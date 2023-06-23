@@ -1,0 +1,16 @@
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+data/
+siamfc_net.pth
+help.txt
+report/
+siamfc/
+tools/__pycache__/
+results_4/
+results_gauss/
+images/back_on_track.png
+images/random_samples.png
+images/random_samples00.png
