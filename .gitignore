@@ -7,8 +7,8 @@ data/
 siamfc_net.pth
 help.txt
 report/
-siamfc/
 tools/__pycache__/
 results_4/
 results_gauss/
 images/
+siamfc/__pycache__/
